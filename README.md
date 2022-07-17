@@ -24,27 +24,20 @@
 
 <h2>Technologies and Tools I use</h2>
 
-<table>
-<tbody style="width: 100%">
-    <li style="width: 50%">
-        <h3>Languages:</h2>
-        <p>
-            <a href="https://www.w3schools.com/html/"><img src="/assets/html-min.png" alt="html5" width="50" height="50"/></a>
-            <a href="https://www.w3schools.com/css/"><img src="/assets/css-min.png" alt="css3" width="50" height="50"/></a>
-            <a href="https://www.w3schools.com/js/"><img src="/assets/javascript-min.png" alt="javascript" width="50" height="50"/></a>
-        </p>
-    </li>
-    <li style="width: 50%">
-        <h3>Libraries and Frameworks:</h2>
-        <p>
-            <a href="https://getbootstrap.com/"><img src="/assets/bootstrap-min.png" alt="bootstrap" width="50" height="50" disabled/></a>
-            <a href="https://tailwindcss.com/"><img src="/assets/tailwindcss-min.png" alt="tailwindcss" width="50" height="50"/></a>
-            <a href="https://jquery.com/"><img src="/assets/jquery-min.png" alt="jquery" width="50" height="50"/></a>
-            <a href="https://reactjs.org/"><img src="/assets/reactjs-min.png" alt="reactjs" width="50" height="50"/></a>
-        </p>
-    </li>
-</tbody>
-</table>
+<h3>Languages:</h2>
+<p>
+    <a href="https://www.w3schools.com/html/"><img src="/assets/html-min.png" alt="html5" width="50" height="50"/></a>
+    <a href="https://www.w3schools.com/css/"><img src="/assets/css-min.png" alt="css3" width="50" height="50"/></a>
+    <a href="https://www.w3schools.com/js/"><img src="/assets/javascript-min.png" alt="javascript" width="50" height="50"/></a>
+</p>
+
+<h3>Libraries and Frameworks:</h2>
+<p>
+    <a href="https://getbootstrap.com/"><img src="/assets/bootstrap-min.png" alt="bootstrap" width="50" height="50" disabled/></a>
+    <a href="https://tailwindcss.com/"><img src="/assets/tailwindcss-min.png" alt="tailwindcss" width="50" height="50"/></a>
+    <a href="https://jquery.com/"><img src="/assets/jquery-min.png" alt="jquery" width="50" height="50"/></a>
+    <a href="https://reactjs.org/"><img src="/assets/reactjs-min.png" alt="reactjs" width="50" height="50"/></a>
+</p>
 
 <h3>Development Tools:</h2>
 <p>
