@@ -25,8 +25,8 @@
 <h2>Technologies and Tools I use</h2>
 
 <table>
-<tbody>
-    <li>
+<tbody style="width: 100%">
+    <li style="width: 50%">
         <h3>Languages:</h2>
         <p>
             <a href="https://www.w3schools.com/html/"><img src="/assets/html-min.png" alt="html5" width="50" height="50"/></a>
@@ -34,7 +34,7 @@
             <a href="https://www.w3schools.com/js/"><img src="/assets/javascript-min.png" alt="javascript" width="50" height="50"/></a>
         </p>
     </li>
-    <li>
+    <li style="width: 50%">
         <h3>Libraries and Frameworks:</h2>
         <p>
             <a href="https://getbootstrap.com/"><img src="/assets/bootstrap-min.png" alt="bootstrap" width="50" height="50" disabled/></a>
