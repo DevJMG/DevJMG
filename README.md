@@ -6,8 +6,8 @@
 <ul>
     <li>
     <b>Website:</b> 
-        <a href='https://jmgadot.herokuapp.com/' target='_blank'>
-            jmgadot.herokuapp.com
+        <a href='https://jmg.vercel.app/' target='_blank'>
+            https://jmg.vercel.app
         </a>
     </li>
     <li><b>Email:</b> 
